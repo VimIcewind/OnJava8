@@ -1,0 +1,17 @@
+*.class
+
+*.ipr
+*.imr
+*.iws
+*.iml
+*.ids
+
+tags
+TAGS
+
+.idea
+
+.gradle
+
+build
+out
