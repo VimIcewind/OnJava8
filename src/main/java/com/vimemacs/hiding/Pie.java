@@ -1,3 +1,5 @@
+package com.vimemacs.hiding;
+
 /**
  * The other class
  * @author HWD

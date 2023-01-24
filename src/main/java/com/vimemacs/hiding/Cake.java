@@ -1,3 +1,5 @@
+package com.vimemacs.hiding;
+
 /**
  * Accesses a class in a separate compilation unit
  * @author HWD
